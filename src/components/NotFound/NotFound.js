@@ -3,7 +3,7 @@ import React from 'react';
 const NotFound = () => {
     return (
         <div>
-            <h1>Not Found 404</h1>
+            <img className="img-fluid" src="https://miro.medium.com/max/2000/1*cLQUX8jM2bMdwMcV2yXWYA.jpeg" alt="" />
         </div>
     );
 };

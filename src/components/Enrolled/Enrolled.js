@@ -1,7 +1,13 @@
 import React from 'react';
 import { Button, Col, Form, Row } from 'react-bootstrap';
+import { useHistory } from 'react-router-dom';
 
 const Enrolled = () => {
+    const history = useHistory();
+
+    const handleSubmit = () => {
+        history.push("/submit");
+    }
     return (
         <div className="bg-secondary my-5">
             <Form className="w-50 mx-auto py-5 fw-bold">
@@ -30,7 +36,7 @@ const Enrolled = () => {
 
                 <Form.Group as={Row} className="mb-3">
                     <Col sm={{ span: 10, offset: 2 }}>
-                        <Button type="submit">Sign in</Button>
+                        <Button onClick={handleSubmit} type="submit">Submit</Button>
                     </Col>
                 </Form.Group>
             </Form>

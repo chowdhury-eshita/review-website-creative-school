@@ -4,7 +4,7 @@ import { Link, NavLink } from 'react-router-dom';
 import './Header.css';
 const Header = () => {
     return (
-        <div className="mb-5">
+        <div>
             <Navbar bg="dark" variant="dark" expand="lg">
                 <Container fluid>
                     <Navbar.Brand href="#home">

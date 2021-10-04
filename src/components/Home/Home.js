@@ -12,7 +12,7 @@ const Home = () => {
     }, [])
 
     return (
-        <div>
+        <div className="pt-5">
             <div className="container mb-5">
                 <Row xs={1} md={3} className="g-4">
                     {

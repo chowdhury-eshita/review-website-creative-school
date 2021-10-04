@@ -8,6 +8,7 @@ import Courses from './components/Courses/Courses';
 import Enrolled from './components/Enrolled/Enrolled';
 import About from './components/About/About';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import SubmitEnroll from './components/SubmitEnroll/SubmitEnroll';
 
 
 function App() {
@@ -30,6 +31,9 @@ function App() {
           </Route>
           <Route path="/about">
             <About></About>
+          </Route>
+          <Route path="/submit">
+            <SubmitEnroll></SubmitEnroll>
           </Route>
           <Route path='*'>
             <NotFound></NotFound>
