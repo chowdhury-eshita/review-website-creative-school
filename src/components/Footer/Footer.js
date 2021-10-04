@@ -3,7 +3,7 @@ import './Footer.css';
 const Footer = () => {
     return (
         <div className="footer">
-            <p> © version 4.4.1 2021.</p>
+            <p> © copy right version 4.4.1 2021.</p>
         </div>
     );
 };

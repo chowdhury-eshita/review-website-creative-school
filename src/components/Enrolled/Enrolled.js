@@ -10,7 +10,7 @@ const Enrolled = () => {
     }
     return (
         <div className="bg-secondary">
-            <Form className="w-50 mx-auto py-5 fw-bold">
+            <Form className="w-50 mx-auto mt-5 pt-5 pb-4 fw-bold">
                 <Form.Group as={Row} className="mb-3" controlId="formHorizontalEmail">
                     <Form.Label column sm={2}>
                         Email

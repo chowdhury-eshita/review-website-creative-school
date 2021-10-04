@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div className="container d-flex align-items-center justify-content-center">
+        <div className="container mt-5 py-5 d-flex align-items-center justify-content-center">
             <img className="me-5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7IQRG4Us9dLCY55rjXN52Z29eXW7SJ1-jkQ&usqp=CAU" alt="" />
 
             <div>
