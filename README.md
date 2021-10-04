@@ -1,6 +1,6 @@
 # Creative School
 
-Site Link: (https://app.netlify.com/sites/creative-school-chowdhury-eshita/overview)
+Site Link: (https://creative-school-chowdhury-eshita.netlify.app/)
 
 **Project Overview:**
 - The site is a Creative Learning center
