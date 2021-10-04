@@ -1,6 +1,6 @@
 import React from 'react';
-import { Button, Container, Nav, Navbar } from 'react-bootstrap';
-import { Link, NavLink } from 'react-router-dom';
+import { Container, Nav, Navbar } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import './Header.css';
 const Header = () => {
     return (
@@ -40,7 +40,7 @@ const Header = () => {
                                     fontWeight: "bold",
                                     color: "red"
                                 }}
-                            >Enrolled Now</Link>
+                            >Enroll Now</Link>
                             <Link className="nav nav-link" to="/about"
                                 activeStyle={{
                                     fontWeight: "bold",
