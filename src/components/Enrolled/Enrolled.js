@@ -9,7 +9,7 @@ const Enrolled = () => {
         history.push("/submit");
     }
     return (
-        <div className="bg-secondary my-5">
+        <div className="bg-secondary">
             <Form className="w-50 mx-auto py-5 fw-bold">
                 <Form.Group as={Row} className="mb-3" controlId="formHorizontalEmail">
                     <Form.Label column sm={2}>
