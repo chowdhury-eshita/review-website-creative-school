@@ -1,0 +1,23 @@
+[
+    {
+        "courseId": 1,
+        "course": "Music",
+        "fee": 123,
+        "duration": 120,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wFVG4y9rE2rwlaJmUf1KOB0lRU1jbYwOEVJvVJZjLciBniqaJiEMZkJHP9hKOlZVsVc&usqp=CAU"
+    },
+    {
+        "courseId": 2,
+        "course": "Guiter",
+        "fee": 133,
+        "duration": 120,
+        "img": "https://images.ctfassets.net/bdyhigkzupmv/6lySzcy7qcIN1tf81Qkus/5b5ac73daeaf61f9057c0b0dd8447a31/hero-guitar-outro.jpg"
+    },
+    {
+        "courseId": 3,
+        "course": "Art",
+        "fee": 113,
+        "duration": 120,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90f93hV31qnLkz9w_4XMMg81bSY8qJB7GTw&usqp=CAU"
+    }
+]
