@@ -40,7 +40,7 @@ const Home = () => {
                 </Carousel.Item>
             </Carousel>
             <div className="container mb-5 pt-5">
-                <h2>Course Highlights:</h2>
+                <h2 className="mb-3">Course Highlights:</h2>
                 <Row xs={1} md={4} className="g-4">
                     {
                         courses.map(course => <Course

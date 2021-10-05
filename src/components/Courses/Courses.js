@@ -13,7 +13,7 @@ const Courses = () => {
 
     return (
         <div className="container mt-5 py-5">
-            <h2>Our Courses:</h2>
+            <h2 className="mb-3">Our Courses:</h2>
             <Row xs={1} md={3} className="g-4">
                 {
                     courses.map(course => <Course
