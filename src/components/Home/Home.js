@@ -40,8 +40,8 @@ const Home = () => {
                 </Carousel.Item>
             </Carousel>
             <div className="container mb-5 pt-5">
-                <h2>Highlights:</h2>
-                <Row xs={1} md={3} className="g-4">
+                <h2>Course Highlights:</h2>
+                <Row xs={1} md={4} className="g-4">
                     {
                         courses.map(course => <Course
                             key={course.courseId}

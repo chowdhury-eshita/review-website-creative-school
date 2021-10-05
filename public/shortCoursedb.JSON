@@ -15,9 +15,16 @@
     },
     {
         "courseId": 3,
-        "course": "Art",
-        "fee": 113,
+        "course": "Spanish Language",
+        "fee": 140,
         "duration": 120,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90f93hV31qnLkz9w_4XMMg81bSY8qJB7GTw&usqp=CAU"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCxwa1bih-XEtDOynOpTvbadP5xh8CSmmNkw&usqp=CAU"
+    },
+    {
+        "courseId": 4,
+        "course": "Handicraft",
+        "fee": 173,
+        "duration": 120,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC50bOvzN8TwuiNHTpKiwb1kSzNFUNFaRuCw&usqp=CAU"
     }
 ]
